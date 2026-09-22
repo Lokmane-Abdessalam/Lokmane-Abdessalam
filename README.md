@@ -1,6 +1,6 @@
 <!-- <p align="center">
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/Lokman-Abd/count.svg" />
+  <img src="https://profile-counter.glitch.me/Lokmane-Abdessalam/count.svg" />
 </p> -->
 
 <h1 align="center">Hi 👋, I'm LOKMANE Abdessalam</h1>
@@ -100,14 +100,14 @@
 
 
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Lokman-Abd&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Lokman-Abd&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Lokman-Abd&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-![](https://raw.githubusercontent.com/Lokman-Abd/github-stats-transparent/output/generated/overview.svg)
-![](https://raw.githubusercontent.com/Lokman-Abd/github-stats-transparent/output/generated/languages.svg)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Lokmane-Abdessalam&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Lokmane-Abdessalam&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Lokmane-Abdessalam&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://raw.githubusercontent.com/Lokmane-Abdessalam/github-stats-transparent/output/generated/overview.svg)
+![](https://raw.githubusercontent.com/Lokmane-Abdessalam/github-stats-transparent/output/generated/languages.svg)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Lokman-Abd&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Lokmane-Abdessalam&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
@@ -127,4 +127,4 @@
 <p><a href="https://www.buymeacoffee.com/lokmane"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="lokmane" /></a></p><br><br>
 
 <!-- ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Lokman-Abd&limit=5&theme=dark&combine_all_yearly_contributions=true) -->
+![](https://github-contributor-stats.vercel.app/api?username=Lokmane-Abdessalam&limit=5&theme=dark&combine_all_yearly_contributions=true) -->
